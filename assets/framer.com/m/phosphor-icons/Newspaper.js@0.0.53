@@ -1,0 +1,8 @@
+/*
+ * Newspaper (phosphor-icons/Newspaper@0.0.53)
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "https://framerusercontent.com/modules/DIXa276ByWBVC1q1yUa1/FnL9Xa010i92HORNGdxf/Newspaper.js"
+export { default } from "https://framerusercontent.com/modules/DIXa276ByWBVC1q1yUa1/FnL9Xa010i92HORNGdxf/Newspaper.js"

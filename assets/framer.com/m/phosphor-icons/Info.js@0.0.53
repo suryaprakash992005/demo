@@ -1,0 +1,8 @@
+/*
+ * Info (phosphor-icons/Info@0.0.53)
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "https://framerusercontent.com/modules/1vCFgG2BMmJjYq3FLbIh/KQv4mx4yPG3NibDJc8Qk/Info.js"
+export { default } from "https://framerusercontent.com/modules/1vCFgG2BMmJjYq3FLbIh/KQv4mx4yPG3NibDJc8Qk/Info.js"

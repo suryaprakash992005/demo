@@ -1,0 +1,8 @@
+/*
+ * Coffee (phosphor-icons/Coffee@0.0.53)
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "https://framerusercontent.com/modules/39LAParvlI5JWYf7FmKb/Ao51tVqAGXWnZNd0ylwT/Coffee.js"
+export { default } from "https://framerusercontent.com/modules/39LAParvlI5JWYf7FmKb/Ao51tVqAGXWnZNd0ylwT/Coffee.js"

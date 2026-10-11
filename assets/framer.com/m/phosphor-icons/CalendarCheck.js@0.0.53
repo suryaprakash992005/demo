@@ -1,0 +1,8 @@
+/*
+ * CalendarCheck (phosphor-icons/CalendarCheck@0.0.53)
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "https://framerusercontent.com/modules/4pePYWT6sxyOAvMkF4Yv/pYVbdw4BQ6bsVJ82enLF/CalendarCheck.js"
+export { default } from "https://framerusercontent.com/modules/4pePYWT6sxyOAvMkF4Yv/pYVbdw4BQ6bsVJ82enLF/CalendarCheck.js"
